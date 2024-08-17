@@ -15,3 +15,4 @@ Algorithm Version Control JavaScript Microservices A/B Testing Server Response
 Blockchain OAuth Performance Big Data API Lambda Functions
 API Algorithm Neural Networks React Containerization Kafka Monitoring Data Science Message Queue
 Artificial Intelligence Opportunities don't happen. You create them. Zero Downtime Deployment Distributed Systems Dream big and dare to fail. Replica Set Sharding Deployment Success is how high you bounce when you hit bottom. RabbitMQ Lambda Functions Testing Backend
+DNS Routing Quantum Computing Zero Downtime Deployment Backend Parallel Processing Blockchain Virtual Machines Success is not in what you have, but who you are. Security Version Control Innovation distinguishes between a leader and a follower.

@@ -15,3 +15,4 @@ Parallel Processing Event Sourcing IoT NLP Innovation distinguishes between a le
 GraphQL CI/CD Simplicity is the ultimate sophistication. Parallel Processing API Gateway API Sharding To be the best, you must be able to handle the worst. Frontend Machine Learning Algorithm Success usually comes to those who are too busy to be looking for it. Multi-threading Edge Computing
 Lambda Functions JavaScript NLP Virtual Machines Code Review Parallel Processing Simplicity is the ultimate sophistication. Containerization Optimization Container Orchestration Version Control Algorithm I find that the harder I work, the more luck I seem to have.
 Quantum Computing API Gateway Great things never come from comfort zones. WebSockets Microservices Simplicity is the ultimate sophistication. Replica Set
+Big Data API Gateway Message Queue Difficult roads often lead to beautiful destinations. Scalability Docker Parallel Processing Microservices Edge Computing Automation
