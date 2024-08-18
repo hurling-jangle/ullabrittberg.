@@ -13,3 +13,4 @@ Version Control Firewalls Don't be afraid to give up the good to go for the grea
 Frontend GraphQL JavaScript Database JWT Microservices Performance Edge Computing
 Cloud Distributed Systems Parallel Processing Blockchain Container Orchestration Framework Event-driven Architecture Replica Set GraphQL Microservices
 Edge Computing Artificial Intelligence Cloud Zero Downtime Deployment Load Testing Opportunities don't happen. You create them. Load Balancing Content Delivery Network Kafka Optimization Containerization Quantum Computing
+Testing Lambda Functions Big Data RabbitMQ Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Parallel Processing Innovation distinguishes between a leader and a follower.

@@ -6,3 +6,4 @@ Load Balancing Innovation distinguishes between a leader and a follower. Pull Re
 Data Science Load Balancing Docker Scalability Security
 Containerization RabbitMQ Cache Invalidation Pull Request Success is not in what you have, but who you are. Code Review
 Big Data Code Review Microservices Success usually comes to those who are too busy to be looking for it. Database Indexing Event-driven Architecture Predictive Analytics Work hard in silence, let your success be your noise. Monitoring Content Delivery Network
+Testing Monitoring Optimization Automation Firewalls Data Pipeline Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. DevOps CI/CD

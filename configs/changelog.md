@@ -5,3 +5,4 @@ Content Delivery Network Kubernetes To be the best, you must be able to handle t
 Content Delivery Network A/B Testing Success is not in what you have, but who you are. Do what you love and the money will follow. Great things never come from comfort zones. Data Pipeline UX Optimization CI/CD Load Balancing Cloud Functions Frontend
 I find that the harder I work, the more luck I seem to have. Multi-threading Load Testing Monitoring Kafka Version Control Opportunities don't happen. You create them. Containerization The only way to do great work is to love what you do. Load Balancing Agile
 Containerization OAuth Agile GraphQL Version Control API Testing Kubernetes
+Lambda Functions Success is not in what you have, but who you are. Content Delivery Network GraphQL Replica Set Frontend
