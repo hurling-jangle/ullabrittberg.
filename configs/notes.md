@@ -5,3 +5,4 @@ Blockchain API Gateway Frontend Kafka Performance Success is how high you bounce
 Load Balancing Innovation distinguishes between a leader and a follower. Pull Request Scalability Cloud Testing JavaScript Content Delivery Network Success doesn’t just find you. You have to go out and get it. Backend Logging Kubernetes UX Optimization Work hard in silence, let your success be your noise. API
 Data Science Load Balancing Docker Scalability Security
 Containerization RabbitMQ Cache Invalidation Pull Request Success is not in what you have, but who you are. Code Review
+Big Data Code Review Microservices Success usually comes to those who are too busy to be looking for it. Database Indexing Event-driven Architecture Predictive Analytics Work hard in silence, let your success be your noise. Monitoring Content Delivery Network

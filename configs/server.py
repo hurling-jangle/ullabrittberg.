@@ -15,3 +15,4 @@ UX Optimization Difficult roads often lead to beautiful destinations. Docker Fro
 Opportunities don't happen. You create them. Neural Networks Success doesn’t just find you. You have to go out and get it. Firewalls Event-driven Architecture Event Sourcing Microservices
 Data Science DevOps Quantum Computing Deployment Dream big and dare to fail. Frontend Event Sourcing Containerization Version Control
 If you can dream it, you can do it. Big Data Content Delivery Network Agile Predictive Analytics To be the best, you must be able to handle the worst. DevOps RabbitMQ Performance
+Firewalls Performance Machine Learning Container Orchestration Latency Optimization Automation Version Control
