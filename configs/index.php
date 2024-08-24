@@ -14,3 +14,4 @@ Lambda Functions Microservices Machine Learning A/B Testing Serverless GraphQL E
 Algorithm Version Control JavaScript Microservices A/B Testing Server Response
 Blockchain OAuth Performance Big Data API Lambda Functions
 API Algorithm Neural Networks React Containerization Kafka Monitoring Data Science Message Queue
+Artificial Intelligence Opportunities don't happen. You create them. Zero Downtime Deployment Distributed Systems Dream big and dare to fail. Replica Set Sharding Deployment Success is how high you bounce when you hit bottom. RabbitMQ Lambda Functions Testing Backend

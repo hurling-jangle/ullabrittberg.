@@ -9,3 +9,4 @@ Neural Networks Monitoring The only way to do great work is to love what you do.
 Event Sourcing Simplicity is the ultimate sophistication. Latency Optimization Virtual Machines Framework Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Content Delivery Network Server Response Success is not in what you have, but who you are. Do what you love and the money will follow.
 Opportunities don't happen. You create them. DNS Routing Message Queue JavaScript CI/CD Code Review Scalability
 Python Success doesn’t just find you. You have to go out and get it. Virtual Machines NLP IoT React A/B Testing
+Predictive Analytics Firewalls Success usually comes to those who are too busy to be looking for it. Algorithm Lambda Functions Backend Cloud If you can dream it, you can do it. Kafka
