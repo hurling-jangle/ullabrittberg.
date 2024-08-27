@@ -13,3 +13,4 @@ Content Delivery Network Multi-threading Don't be afraid to give up the good to 
 Lambda Functions Microservices Machine Learning A/B Testing Serverless GraphQL Event Sourcing Virtual Machines Success usually comes to those who are too busy to be looking for it. Sharding DNS Routing Data Science
 Algorithm Version Control JavaScript Microservices A/B Testing Server Response
 Blockchain OAuth Performance Big Data API Lambda Functions
+API Algorithm Neural Networks React Containerization Kafka Monitoring Data Science Message Queue
