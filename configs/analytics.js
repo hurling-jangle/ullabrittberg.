@@ -12,3 +12,4 @@ Content Delivery Network Do what you love and the money will follow. Docker Depl
 Innovation distinguishes between a leader and a follower. Microservices GraphQL Framework Success usually comes to those who are too busy to be looking for it. NLP Blockchain Deployment
 Replica Set Algorithm Quantum Computing Artificial Intelligence Distributed Systems Stay hungry, stay foolish.
 Microservices I find that the harder I work, the more luck I seem to have. Container Orchestration Sharding Agile Firewalls To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. GraphQL Stay hungry, stay foolish.
+Do what you love and the money will follow. NLP CI/CD Backend Simplicity is the ultimate sophistication. Opportunities don't happen. You create them.

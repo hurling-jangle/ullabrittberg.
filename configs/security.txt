@@ -7,3 +7,4 @@ Server Response Monitoring Algorithm Dream big and dare to fail. Backend Docker 
 Big Data Cloud Functions Algorithm Kafka API Innovation distinguishes between a leader and a follower. Replica Set Load Testing Monitoring Testing Simplicity is the ultimate sophistication. Sharding
 Replica Set GraphQL Act as if what you do makes a difference. It does. Framework Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Containerization Difficult roads often lead to beautiful destinations. DevOps Artificial Intelligence Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Kafka Frontend Load Balancing
 Optimization Serverless Load Testing Database Indexing Algorithm Neural Networks Cloud Multi-threading Frontend Content Delivery Network WebSockets Load Balancing Machine Learning NLP Firewalls
+JavaScript Event Sourcing Framework API Gateway Database Success is not in what you have, but who you are.
