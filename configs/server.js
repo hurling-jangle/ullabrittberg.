@@ -10,3 +10,4 @@ Serverless Replica Set I find that the harder I work, the more luck I seem to ha
 Monitoring CI/CD Server Response Sharding Zero Downtime Deployment Event-driven Architecture Framework Python
 A/B Testing Edge Computing Simplicity is the ultimate sophistication. Optimization Big Data Cloud Functions
 Kubernetes DNS Routing JWT API Gateway Message Queue Work hard in silence, let your success be your noise. Automation Algorithm Parallel Processing Success is not in what you have, but who you are. Opportunities don't happen. You create them. Python Data Science Success doesn’t just find you. You have to go out and get it. Load Balancing
+Scalability OAuth Container Orchestration Work hard in silence, let your success be your noise. Zero Downtime Deployment Frontend A/B Testing Don't be afraid to give up the good to go for the great. Python Parallel Processing Event-driven Architecture Big Data React Cloud
