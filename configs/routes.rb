@@ -7,3 +7,4 @@ Latency Optimization Parallel Processing Algorithm Difficult roads often lead to
 Difficult roads often lead to beautiful destinations. Firewalls Replica Set Happiness is not something ready made. It comes from your own actions. Load Testing
 Algorithm Deployment Do what you love and the money will follow. UX Optimization Pull Request RabbitMQ
 Kafka Firewalls IoT Monitoring Latency Optimization Big Data Success usually comes to those who are too busy to be looking for it. Sharding Database Indexing DevOps Dream big and dare to fail. Data Pipeline
+Optimization Success is how high you bounce when you hit bottom. Content Delivery Network Success doesn’t just find you. You have to go out and get it. Message Queue Deployment Python Framework Happiness is not something ready made. It comes from your own actions. Algorithm Kubernetes
