@@ -9,3 +9,4 @@ JWT Deployment Artificial Intelligence Big Data Simplicity is the ultimate sophi
 Containerization Success doesn’t just find you. You have to go out and get it. Neural Networks Cloud DevOps Code Review API Version Control Zero Downtime Deployment Scalability Database Indexing Do what you love and the money will follow. UX Optimization Replica Set
 Lambda Functions Microservices Success is how high you bounce when you hit bottom. Algorithm Load Balancing Parallel Processing UX Optimization Event Sourcing CI/CD
 Machine Learning IoT Work hard in silence, let your success be your noise. Backend Containerization Latency Optimization If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Frontend DevOps Cloud Event Sourcing Great things never come from comfort zones.
+Content Delivery Network Multi-threading Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Cloud Functions
