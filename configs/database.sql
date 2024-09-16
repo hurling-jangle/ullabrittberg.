@@ -12,3 +12,4 @@ Automation Kafka Backend Artificial Intelligence Distributed Systems Lambda Func
 RabbitMQ Automation Data Pipeline Containerization Blockchain Pull Request React API Database Indexing Data Science Great things never come from comfort zones. Agile Dream big and dare to fail.
 Backend Frontend Event Sourcing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.
 Parallel Processing Event Sourcing IoT NLP Innovation distinguishes between a leader and a follower. Performance Neural Networks Testing Quantum Computing Big Data Lambda Functions Algorithm Don't be afraid to give up the good to go for the great.
+GraphQL CI/CD Simplicity is the ultimate sophistication. Parallel Processing API Gateway API Sharding To be the best, you must be able to handle the worst. Frontend Machine Learning Algorithm Success usually comes to those who are too busy to be looking for it. Multi-threading Edge Computing
