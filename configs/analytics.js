@@ -8,3 +8,4 @@ Backend Load Testing OAuth Serverless Success usually comes to those who are too
 Scalability Dream big and dare to fail. Performance Event-driven Architecture Content Delivery Network
 JWT Multi-threading CI/CD Zero Downtime Deployment Kafka Kubernetes
 Opportunities don't happen. You create them. Sharding A/B Testing Data Pipeline If you can dream it, you can do it. Dream big and dare to fail.
+Content Delivery Network Do what you love and the money will follow. Docker Deployment Container Orchestration Python
