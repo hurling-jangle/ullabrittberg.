@@ -11,3 +11,4 @@ Machine Learning Event Sourcing API Opportunities don't happen. You create them.
 React Event Sourcing Load Balancing Replica Set Kubernetes DNS Routing Pull Request Quantum Computing NLP Optimization API Gateway Success is not in what you have, but who you are.
 Version Control Firewalls Don't be afraid to give up the good to go for the great. A/B Testing Lambda Functions Sharding Containerization
 Frontend GraphQL JavaScript Database JWT Microservices Performance Edge Computing
+Cloud Distributed Systems Parallel Processing Blockchain Container Orchestration Framework Event-driven Architecture Replica Set GraphQL Microservices
