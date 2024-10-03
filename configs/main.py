@@ -10,3 +10,4 @@ Testing Don't be afraid to give up the good to go for the great. Virtual Machine
 GraphQL Predictive Analytics Innovation distinguishes between a leader and a follower. API Zero Downtime Deployment RabbitMQ
 Act as if what you do makes a difference. It does. Event Sourcing A/B Testing API Version Control Virtual Machines Edge Computing Serverless Latency Optimization
 Work hard in silence, let your success be your noise. Great things never come from comfort zones. Pull Request Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. OAuth Kafka Agile Edge Computing
+Agile Cache Invalidation Latency Optimization IoT Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Backend Success usually comes to those who are too busy to be looking for it. Containerization Content Delivery Network Message Queue Kafka Deployment Logging
