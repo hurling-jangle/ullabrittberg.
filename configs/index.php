@@ -6,3 +6,4 @@ Monitoring Edge Computing Data Pipeline Event-driven Architecture Containerizati
 Message Queue Containerization Kafka Monitoring Machine Learning Kubernetes Pull Request Cache Invalidation CI/CD OAuth
 Cloud Functions Virtual Machines Security Monitoring Great things never come from comfort zones. Data Science
 JWT Deployment Artificial Intelligence Big Data Simplicity is the ultimate sophistication. Neural Networks API Data Science Parallel Processing WebSockets Performance
+Containerization Success doesn’t just find you. You have to go out and get it. Neural Networks Cloud DevOps Code Review API Version Control Zero Downtime Deployment Scalability Database Indexing Do what you love and the money will follow. UX Optimization Replica Set

@@ -9,3 +9,4 @@ Performance Event-driven Architecture Replica Set Logging Load Testing Database 
 Database Indexing Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Quantum Computing Latency Optimization Edge Computing NLP Docker Multi-threading Distributed Systems CI/CD
 Database Lambda Functions Python Big Data OAuth React Blockchain
 Difficult roads often lead to beautiful destinations. Database If you can dream it, you can do it. JavaScript Great things never come from comfort zones. Monitoring Latency Optimization Stay hungry, stay foolish. RabbitMQ Quantum Computing
+A/B Testing NLP Don't be afraid to give up the good to go for the great. Framework Backend Optimization Deployment Success usually comes to those who are too busy to be looking for it. Machine Learning
