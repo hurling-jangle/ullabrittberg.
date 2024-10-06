@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. OAuth Frontend Opti
 Monitoring Edge Computing Data Pipeline Event-driven Architecture Containerization Artificial Intelligence Optimization Quantum Computing RabbitMQ GraphQL Blockchain Message Queue
 Message Queue Containerization Kafka Monitoring Machine Learning Kubernetes Pull Request Cache Invalidation CI/CD OAuth
 Cloud Functions Virtual Machines Security Monitoring Great things never come from comfort zones. Data Science
+JWT Deployment Artificial Intelligence Big Data Simplicity is the ultimate sophistication. Neural Networks API Data Science Parallel Processing WebSockets Performance
