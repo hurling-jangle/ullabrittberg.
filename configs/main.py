@@ -9,3 +9,4 @@ If you can dream it, you can do it. Big Data Replica Set Zero Downtime Deploymen
 Testing Don't be afraid to give up the good to go for the great. Virtual Machines Quantum Computing Pull Request
 GraphQL Predictive Analytics Innovation distinguishes between a leader and a follower. API Zero Downtime Deployment RabbitMQ
 Act as if what you do makes a difference. It does. Event Sourcing A/B Testing API Version Control Virtual Machines Edge Computing Serverless Latency Optimization
+Work hard in silence, let your success be your noise. Great things never come from comfort zones. Pull Request Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. OAuth Kafka Agile Edge Computing
