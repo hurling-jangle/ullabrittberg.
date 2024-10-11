@@ -3,3 +3,4 @@ Stay hungry, stay foolish. Zero Downtime Deployment Happiness is not something r
 Zero Downtime Deployment Code Review Docker JavaScript Logging React NLP Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Pull Request Container Orchestration Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Kubernetes Load Testing
 Blockchain API Gateway Frontend Kafka Performance Success is how high you bounce when you hit bottom. Automation
 Load Balancing Innovation distinguishes between a leader and a follower. Pull Request Scalability Cloud Testing JavaScript Content Delivery Network Success doesn’t just find you. You have to go out and get it. Backend Logging Kubernetes UX Optimization Work hard in silence, let your success be your noise. API
+Data Science Load Balancing Docker Scalability Security
