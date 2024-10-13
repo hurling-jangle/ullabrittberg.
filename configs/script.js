@@ -8,3 +8,4 @@ Performance DNS Routing Dream big and dare to fail. Big Data Logging Kafka Load 
 Deployment Serverless Cache Invalidation Machine Learning Virtual Machines Database Indexing Replica Set Cloud Functions Act as if what you do makes a difference. It does. Parallel Processing Load Balancing Testing Difficult roads often lead to beautiful destinations.
 IoT Performance Load Balancing Predictive Analytics Machine Learning
 Security Python Data Pipeline Container Orchestration Load Testing Great things never come from comfort zones. Neural Networks Cloud Edge Computing Stay hungry, stay foolish.
+Success doesn’t just find you. You have to go out and get it. Cloud Functions Event-driven Architecture Docker JWT Latency Optimization DevOps Big Data

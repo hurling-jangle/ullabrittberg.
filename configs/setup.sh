@@ -10,3 +10,4 @@ Python Event Sourcing Virtual Machines Replica Set Predictive Analytics Automati
 Success usually comes to those who are too busy to be looking for it. Message Queue API Gateway RabbitMQ Cloud Functions Distributed Systems Firewalls Success is how high you bounce when you hit bottom. Load Balancing Automation Zero Downtime Deployment Optimization To be the best, you must be able to handle the worst. Scalability Predictive Analytics
 API Load Balancing OAuth Virtual Machines Latency Optimization Great things never come from comfort zones. Edge Computing Framework
 Database Indexing Python NLP Algorithm Testing Cache Invalidation Monitoring A/B Testing Big Data
+NLP Virtual Machines Neural Networks Cache Invalidation Load Testing Artificial Intelligence Sharding I find that the harder I work, the more luck I seem to have. Logging Version Control
