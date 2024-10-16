@@ -4,3 +4,4 @@ Logging Artificial Intelligence API Gateway Database I find that the harder I wo
 I find that the harder I work, the more luck I seem to have. OAuth Frontend Optimization Great things never come from comfort zones. Neural Networks A/B Testing Parallel Processing React Algorithm Simplicity is the ultimate sophistication. Docker GraphQL
 Monitoring Edge Computing Data Pipeline Event-driven Architecture Containerization Artificial Intelligence Optimization Quantum Computing RabbitMQ GraphQL Blockchain Message Queue
 Message Queue Containerization Kafka Monitoring Machine Learning Kubernetes Pull Request Cache Invalidation CI/CD OAuth
+Cloud Functions Virtual Machines Security Monitoring Great things never come from comfort zones. Data Science
