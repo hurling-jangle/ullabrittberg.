@@ -7,3 +7,4 @@ Version Control Microservices Database Indexing API Gateway To be the best, you 
 Load Testing Zero Downtime Deployment Virtual Machines Cloud Functions NLP Neural Networks Opportunities don't happen. You create them. Server Response Code Review
 Performance Event-driven Architecture Replica Set Logging Load Testing Database Cache Invalidation Virtual Machines Big Data Load Balancing Agile Quantum Computing Cloud
 Database Indexing Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Quantum Computing Latency Optimization Edge Computing NLP Docker Multi-threading Distributed Systems CI/CD
+Database Lambda Functions Python Big Data OAuth React Blockchain
