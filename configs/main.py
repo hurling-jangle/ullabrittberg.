@@ -8,3 +8,4 @@ Performance Distributed Systems Kafka Sharding The only way to do great work is 
 If you can dream it, you can do it. Big Data Replica Set Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Data Pipeline To be the best, you must be able to handle the worst. Optimization A/B Testing Latency Optimization Logging Stay hungry, stay foolish. DevOps
 Testing Don't be afraid to give up the good to go for the great. Virtual Machines Quantum Computing Pull Request
 GraphQL Predictive Analytics Innovation distinguishes between a leader and a follower. API Zero Downtime Deployment RabbitMQ
+Act as if what you do makes a difference. It does. Event Sourcing A/B Testing API Version Control Virtual Machines Edge Computing Serverless Latency Optimization
