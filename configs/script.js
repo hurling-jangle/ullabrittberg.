@@ -6,3 +6,4 @@ API Data Science Server Response Difficult roads often lead to beautiful destina
 GraphQL Frontend Agile Predictive Analytics WebSockets Dream big and dare to fail. Blockchain Replica Set Logging NLP Kubernetes Load Testing I find that the harder I work, the more luck I seem to have. A/B Testing If you can dream it, you can do it.
 Performance DNS Routing Dream big and dare to fail. Big Data Logging Kafka Load Balancing
 Deployment Serverless Cache Invalidation Machine Learning Virtual Machines Database Indexing Replica Set Cloud Functions Act as if what you do makes a difference. It does. Parallel Processing Load Balancing Testing Difficult roads often lead to beautiful destinations.
+IoT Performance Load Balancing Predictive Analytics Machine Learning

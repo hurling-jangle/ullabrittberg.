@@ -11,3 +11,4 @@ Database Algorithm Data Science Server Response WebSockets Version Control Laten
 Automation Kafka Backend Artificial Intelligence Distributed Systems Lambda Functions Latency Optimization Logging A/B Testing Monitoring Difficult roads often lead to beautiful destinations. Code Review Deployment Container Orchestration
 RabbitMQ Automation Data Pipeline Containerization Blockchain Pull Request React API Database Indexing Data Science Great things never come from comfort zones. Agile Dream big and dare to fail.
 Backend Frontend Event Sourcing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.
+Parallel Processing Event Sourcing IoT NLP Innovation distinguishes between a leader and a follower. Performance Neural Networks Testing Quantum Computing Big Data Lambda Functions Algorithm Don't be afraid to give up the good to go for the great.
