@@ -10,3 +10,4 @@ Predictive Analytics Parallel Processing Optimization Cache Invalidation Replica
 Machine Learning Event Sourcing API Opportunities don't happen. You create them. DNS Routing Algorithm Data Pipeline Blockchain Message Queue Microservices Containerization Kubernetes Python Framework Cache Invalidation
 React Event Sourcing Load Balancing Replica Set Kubernetes DNS Routing Pull Request Quantum Computing NLP Optimization API Gateway Success is not in what you have, but who you are.
 Version Control Firewalls Don't be afraid to give up the good to go for the great. A/B Testing Lambda Functions Sharding Containerization
+Frontend GraphQL JavaScript Database JWT Microservices Performance Edge Computing
