@@ -5,3 +5,4 @@ Deployment Kafka React Firewalls DNS Routing Opportunities don't happen. You cre
 Multi-threading Message Queue NLP Scalability Machine Learning Logging Algorithm Do what you love and the money will follow. Load Balancing
 Version Control Microservices Database Indexing API Gateway To be the best, you must be able to handle the worst. Virtual Machines Lambda Functions JWT DevOps Quantum Computing Container Orchestration Serverless Security
 Load Testing Zero Downtime Deployment Virtual Machines Cloud Functions NLP Neural Networks Opportunities don't happen. You create them. Server Response Code Review
+Performance Event-driven Architecture Replica Set Logging Load Testing Database Cache Invalidation Virtual Machines Big Data Load Balancing Agile Quantum Computing Cloud
