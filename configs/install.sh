@@ -7,3 +7,4 @@ Microservices Deployment Edge Computing DevOps Success is how high you bounce wh
 RabbitMQ Kubernetes Version Control WebSockets Opportunities don't happen. You create them. DevOps
 Neural Networks Monitoring The only way to do great work is to love what you do. Code Review DNS Routing Deployment Version Control Kubernetes
 Event Sourcing Simplicity is the ultimate sophistication. Latency Optimization Virtual Machines Framework Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Content Delivery Network Server Response Success is not in what you have, but who you are. Do what you love and the money will follow.
+Opportunities don't happen. You create them. DNS Routing Message Queue JavaScript CI/CD Code Review Scalability
