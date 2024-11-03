@@ -3,3 +3,4 @@ GraphQL Quantum Computing Backend The only way to do great work is to love what 
 A/B Testing NLP Cache Invalidation Distributed Systems Multi-threading Big Data Dream big and dare to fail. Optimization Event-driven Architecture If you can dream it, you can do it. JWT Logging RabbitMQ
 Algorithm Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Microservices Pull Request I find that the harder I work, the more luck I seem to have. Kubernetes Backend Security Replica Set Code Review
 Quantum Computing Agile RabbitMQ Testing Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. UX Optimization API Gateway Parallel Processing
+Latency Optimization Parallel Processing Algorithm Difficult roads often lead to beautiful destinations. CI/CD

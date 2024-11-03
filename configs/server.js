@@ -7,3 +7,4 @@ Code Review Zero Downtime Deployment Opportunities don't happen. You create them
 Load Balancing Event-driven Architecture Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Kubernetes UX Optimization
 Database Data Science Success doesn’t just find you. You have to go out and get it. JavaScript Scalability WebSockets Cloud Functions Optimization CI/CD Frontend Zero Downtime Deployment Parallel Processing Microservices
 Serverless Replica Set I find that the harder I work, the more luck I seem to have. Framework Parallel Processing Difficult roads often lead to beautiful destinations. Pull Request Firewalls CI/CD Blockchain Kafka Data Science Work hard in silence, let your success be your noise. The only way to do great work is to love what you do.
+Monitoring CI/CD Server Response Sharding Zero Downtime Deployment Event-driven Architecture Framework Python
