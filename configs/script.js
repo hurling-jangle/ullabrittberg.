@@ -5,3 +5,4 @@ API The only way to do great work is to love what you do. Performance Do what yo
 API Data Science Server Response Difficult roads often lead to beautiful destinations. Predictive Analytics Success doesn’t just find you. You have to go out and get it. Load Testing Docker GraphQL Machine Learning
 GraphQL Frontend Agile Predictive Analytics WebSockets Dream big and dare to fail. Blockchain Replica Set Logging NLP Kubernetes Load Testing I find that the harder I work, the more luck I seem to have. A/B Testing If you can dream it, you can do it.
 Performance DNS Routing Dream big and dare to fail. Big Data Logging Kafka Load Balancing
+Deployment Serverless Cache Invalidation Machine Learning Virtual Machines Database Indexing Replica Set Cloud Functions Act as if what you do makes a difference. It does. Parallel Processing Load Balancing Testing Difficult roads often lead to beautiful destinations.
