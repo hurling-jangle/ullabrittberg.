@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. IoT The o
 Event Sourcing Performance Cloud Docker Work hard in silence, let your success be your noise. Edge Computing JavaScript Dream big and dare to fail. Containerization Monitoring Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower.
 Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Content Delivery Network Automation Success is not in what you have, but who you are.
 Predictive Analytics Parallel Processing Optimization Cache Invalidation Replica Set Docker
+Machine Learning Event Sourcing API Opportunities don't happen. You create them. DNS Routing Algorithm Data Pipeline Blockchain Message Queue Microservices Containerization Kubernetes Python Framework Cache Invalidation

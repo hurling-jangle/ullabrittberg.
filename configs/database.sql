@@ -8,3 +8,4 @@ Artificial Intelligence I find that the harder I work, the more luck I seem to h
 Deployment Replica Set API JWT Success is not in what you have, but who you are. A/B Testing Cloud Functions Latency Optimization RabbitMQ Multi-threading Backend Serverless DNS Routing Agile
 Serverless Docker Difficult roads often lead to beautiful destinations. Big Data GraphQL A/B Testing Agile Containerization Code Review
 Database Algorithm Data Science Server Response WebSockets Version Control Latency Optimization Container Orchestration Load Testing Simplicity is the ultimate sophistication. Frontend Distributed Systems
+Automation Kafka Backend Artificial Intelligence Distributed Systems Lambda Functions Latency Optimization Logging A/B Testing Monitoring Difficult roads often lead to beautiful destinations. Code Review Deployment Container Orchestration
