@@ -6,3 +6,4 @@ CI/CD Code Review WebSockets NLP Success usually comes to those who are too busy
 Firewalls Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Big Data Version Control Automation Docker Testing Stay hungry, stay foolish. IoT Message Queue
 Backend Load Testing OAuth Serverless Success usually comes to those who are too busy to be looking for it. Containerization I find that the harder I work, the more luck I seem to have. RabbitMQ Cache Invalidation Agile Security Event Sourcing Don't be afraid to give up the good to go for the great.
 Scalability Dream big and dare to fail. Performance Event-driven Architecture Content Delivery Network
+JWT Multi-threading CI/CD Zero Downtime Deployment Kafka Kubernetes
