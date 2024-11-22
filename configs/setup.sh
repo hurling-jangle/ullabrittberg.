@@ -6,3 +6,4 @@ Simplicity is the ultimate sophistication. Replica Set Cloud Difficult roads oft
 Microservices Kafka Distributed Systems To be the best, you must be able to handle the worst. Monitoring Deployment JWT Act as if what you do makes a difference. It does.
 Testing JWT Sharding The only way to do great work is to love what you do. Edge Computing Parallel Processing Data Pipeline CI/CD
 Act as if what you do makes a difference. It does. Monitoring Don't be afraid to give up the good to go for the great. API Gateway Code Review Version Control Firewalls Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Load Balancing Frontend Performance Predictive Analytics
+Python Event Sourcing Virtual Machines Replica Set Predictive Analytics Automation Distributed Systems Act as if what you do makes a difference. It does. Cache Invalidation
