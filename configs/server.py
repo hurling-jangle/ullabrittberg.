@@ -8,3 +8,4 @@ Data Science Version Control Database Parallel Processing Success doesn’t just f
 Replica Set API GraphQL Kubernetes A/B Testing Backend Code Review JWT Automation Version Control
 Quantum Computing DNS Routing Act as if what you do makes a difference. It does. Pull Request Parallel Processing Artificial Intelligence Python Stay hungry, stay foolish. Testing Kubernetes Automation Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Cloud Success doesn’t just find you. You have to go out and get it.
 Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Replica Set Innovation distinguishes between a leader and a follower. Multi-threading Happiness is not something ready made. It comes from your own actions. Python Sharding IoT
+Great things never come from comfort zones. Content Delivery Network Agile API Sharding Version Control Backend Logging
