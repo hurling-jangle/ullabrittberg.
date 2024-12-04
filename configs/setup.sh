@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. Container Orchestra
 Database Indexing NLP Server Response Message Queue Opportunities don't happen. You create them. Data Pipeline
 Simplicity is the ultimate sophistication. Replica Set Cloud Difficult roads often lead to beautiful destinations. GraphQL JWT Server Response Kubernetes Version Control Python Backend Kafka Serverless Virtual Machines Dream big and dare to fail.
 Microservices Kafka Distributed Systems To be the best, you must be able to handle the worst. Monitoring Deployment JWT Act as if what you do makes a difference. It does.
+Testing JWT Sharding The only way to do great work is to love what you do. Edge Computing Parallel Processing Data Pipeline CI/CD
