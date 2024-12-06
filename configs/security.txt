@@ -1,3 +1,4 @@
 Performance Database Indexing Cache Invalidation Multi-threading OAuth To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Distributed Systems Serverless If you can dream it, you can do it.
 GraphQL JavaScript Difficult roads often lead to beautiful destinations. Event-driven Architecture Machine Learning Framework Agile Server Response Serverless Testing
 Opportunities don't happen. You create them. Message Queue Artificial Intelligence Success is not in what you have, but who you are. Firewalls Performance
+Artificial Intelligence Logging NLP If you can dream it, you can do it. Version Control Cache Invalidation A/B Testing Backend Great things never come from comfort zones. Neural Networks Machine Learning

@@ -4,3 +4,4 @@ Success doesn’t just find you. You have to go out and get it. Load Balancing Mes
 Stay hungry, stay foolish. Machine Learning CI/CD Lambda Functions Cloud Serverless
 DevOps The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Monitoring Success is how high you bounce when you hit bottom. Virtual Machines Version Control Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. OAuth Great things never come from comfort zones. Frontend Machine Learning
 Microservices Deployment Edge Computing DevOps Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Optimization Cache Invalidation Predictive Analytics Database Stay hungry, stay foolish. Testing Virtual Machines Latency Optimization
+RabbitMQ Kubernetes Version Control WebSockets Opportunities don't happen. You create them. DevOps
