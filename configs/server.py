@@ -6,3 +6,4 @@ Backend Pull Request Code Review React Event-driven Architecture Latency Optimiz
 Replica Set Latency Optimization Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Parallel Processing Logging Agile Scalability Message Queue
 Data Science Version Control Database Parallel Processing Success doesn’t just find you. You have to go out and get it.
 Replica Set API GraphQL Kubernetes A/B Testing Backend Code Review JWT Automation Version Control
+Quantum Computing DNS Routing Act as if what you do makes a difference. It does. Pull Request Parallel Processing Artificial Intelligence Python Stay hungry, stay foolish. Testing Kubernetes Automation Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Cloud Success doesn’t just find you. You have to go out and get it.
