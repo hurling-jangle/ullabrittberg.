@@ -1,3 +1,4 @@
 Backend Virtual Machines Firewalls Predictive Analytics Do what you love and the money will follow. Framework Code Review Neural Networks Frontend Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Zero Downtime Deployment
 GraphQL Quantum Computing Backend The only way to do great work is to love what you do. Serverless Scalability Neural Networks Microservices Data Science Deployment NLP A/B Testing If you can dream it, you can do it. Big Data
 A/B Testing NLP Cache Invalidation Distributed Systems Multi-threading Big Data Dream big and dare to fail. Optimization Event-driven Architecture If you can dream it, you can do it. JWT Logging RabbitMQ
+Algorithm Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Microservices Pull Request I find that the harder I work, the more luck I seem to have. Kubernetes Backend Security Replica Set Code Review
