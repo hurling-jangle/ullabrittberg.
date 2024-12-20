@@ -2,3 +2,4 @@ Version Control Python Server Response Kubernetes Difficult roads often lead to 
 Database Indexing Kafka OAuth Big Data Testing API Gateway Artificial Intelligence Neural Networks JavaScript Cloud Functions Agile Version Control Container Orchestration
 Neural Networks Firewalls Difficult roads often lead to beautiful destinations. UX Optimization Sharding Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment
 Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Message Queue Predictive Analytics Sharding IoT Cloud Functions Load Testing
+Act as if what you do makes a difference. It does. Great things never come from comfort zones. Blockchain Success doesn’t just find you. You have to go out and get it. Cloud Functions Don't be afraid to give up the good to go for the great. A/B Testing Simplicity is the ultimate sophistication. Message Queue UX Optimization
