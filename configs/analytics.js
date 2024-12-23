@@ -3,3 +3,4 @@ Lambda Functions IoT Don't be afraid to give up the good to go for the great. Ma
 Kubernetes Message Queue Quantum Computing DNS Routing I find that the harder I work, the more luck I seem to have. JavaScript Act as if what you do makes a difference. It does. Microservices
 Opportunities don't happen. You create them. Content Delivery Network Sharding Message Queue Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Serverless
 CI/CD Code Review WebSockets NLP Success usually comes to those who are too busy to be looking for it. Monitoring Python
+Firewalls Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Big Data Version Control Automation Docker Testing Stay hungry, stay foolish. IoT Message Queue
