@@ -1,3 +1,4 @@
 Opportunities don't happen. You create them. Automation DevOps Big Data Data Pipeline Multi-threading Distributed Systems React Microservices To be the best, you must be able to handle the worst. Pull Request Containerization
 CI/CD Zero Downtime Deployment Sharding Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Great things never come from comfort zones. To be the best, you must be able to handle the worst. Framework
 Success doesn’t just find you. You have to go out and get it. Load Balancing Message Queue Version Control Performance Agile Happiness is not something ready made. It comes from your own actions. Data Pipeline Frontend Python Database
+Stay hungry, stay foolish. Machine Learning CI/CD Lambda Functions Cloud Serverless
