@@ -2,3 +2,4 @@ Success doesn’t just find you. You have to go out and get it. Success usually co
 Artificial Intelligence Microservices Backend Success is how high you bounce when you hit bottom. Zero Downtime Deployment Data Science Firewalls
 JWT Parallel Processing Pull Request Version Control CI/CD
 Latency Optimization I find that the harder I work, the more luck I seem to have. Data Pipeline Dream big and dare to fail. Act as if what you do makes a difference. It does. Frontend Load Balancing
+Stay hungry, stay foolish. Cloud Functions JavaScript I find that the harder I work, the more luck I seem to have. Version Control
