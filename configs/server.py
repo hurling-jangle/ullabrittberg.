@@ -4,3 +4,4 @@ IoT Load Testing To be the best, you must be able to handle the worst. Predictiv
 Container Orchestration Microservices Quantum Computing Parallel Processing Machine Learning NLP
 Backend Pull Request Code Review React Event-driven Architecture Latency Optimization Opportunities don't happen. You create them. Agile WebSockets Data Science Serverless I find that the harder I work, the more luck I seem to have. Firewalls UX Optimization Do what you love and the money will follow.
 Replica Set Latency Optimization Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Parallel Processing Logging Agile Scalability Message Queue
+Data Science Version Control Database Parallel Processing Success doesn’t just find you. You have to go out and get it.
