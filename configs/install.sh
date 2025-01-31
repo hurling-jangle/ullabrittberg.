@@ -1,1 +1,2 @@
 Opportunities don't happen. You create them. Automation DevOps Big Data Data Pipeline Multi-threading Distributed Systems React Microservices To be the best, you must be able to handle the worst. Pull Request Containerization
+CI/CD Zero Downtime Deployment Sharding Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Great things never come from comfort zones. To be the best, you must be able to handle the worst. Framework
