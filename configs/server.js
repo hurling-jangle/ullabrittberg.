@@ -1,2 +1,3 @@
 WebSockets Container Orchestration Success usually comes to those who are too busy to be looking for it. IoT Neural Networks Testing Monitoring Server Response Deployment A/B Testing Stay hungry, stay foolish. Big Data If you can dream it, you can do it. Kafka NLP
 Predictive Analytics Success is how high you bounce when you hit bottom. Performance Success is not in what you have, but who you are. Logging Data Pipeline Artificial Intelligence
+Dream big and dare to fail. JavaScript Stay hungry, stay foolish. Database Indexing Quantum Computing Kafka Parallel Processing CI/CD Replica Set Algorithm UX Optimization Zero Downtime Deployment Lambda Functions Deployment
